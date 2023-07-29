@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
-<div align="center">
-<img />
+<div align="centerm">
+
 <div>
  
   <h1><b>Dashboard</b></h1>
