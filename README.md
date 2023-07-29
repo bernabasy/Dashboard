@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-<div align="centerm">
 
 <div>
  
@@ -31,7 +30,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Crypto Web-app <a name="about-project"></a>
+# 📖 Dashboard <a name="about-project"></a>
 
 >  The Dashboard Web app is a website built with react/redux and CSS.
 It is an Admin Dashboard.
@@ -47,12 +46,6 @@ It is an Admin Dashboard.
   <ul>
     <li>CSS(CSS)</li>
     <li>React/Redux</li>
-  </ul>
-</details>
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>Github</li>
   </ul>
 </details>
 
