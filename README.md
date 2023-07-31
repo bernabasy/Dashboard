@@ -58,12 +58,6 @@ It is an Admin Dashboard.
 
 #### 🔭 Future Features <a name="future-features"></a>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- <a href="#" target="_blank"></a>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Project Presentation Video <a name="live-demo"></a>
