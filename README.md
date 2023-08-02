@@ -44,7 +44,7 @@ It is an Admin Dashboard.
 <details>
   <summary>Languages</summary>
   <ul>
-    <li>CSS(CSS)</li>
+    <li>SCSS(SCSS)</li>
     <li>React/Redux</li>
   </ul>
 </details>
